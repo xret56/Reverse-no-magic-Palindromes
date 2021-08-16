@@ -1,1 +1,0 @@
-# Reverse-no-magic-Palindromes
